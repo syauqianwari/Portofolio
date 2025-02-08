@@ -1,1 +1,1 @@
-<body styles="background-color: salmon;">
+<body style="background-color: salmon;">
